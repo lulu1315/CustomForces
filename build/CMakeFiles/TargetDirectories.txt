@@ -1,0 +1,3 @@
+/shared/foss-18/CustomForces/build/CMakeFiles/rebuild_cache.dir
+/shared/foss-18/CustomForces/build/CMakeFiles/pixelforce.dir
+/shared/foss-18/CustomForces/build/CMakeFiles/edit_cache.dir
